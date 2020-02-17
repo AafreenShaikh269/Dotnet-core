@@ -1,0 +1,17 @@
+C:\Users\aafreen.shaikh\code\CoreAssignment\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\aafreen.shaikh\code\CoreAssignment\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\aafreen.shaikh\code\CoreAssignment\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\aafreen.shaikh\code\CoreAssignment\bin\Release\netcoreapp2.2\CoreAssignment.deps.json
+C:\Users\aafreen.shaikh\code\CoreAssignment\bin\Release\netcoreapp2.2\CoreAssignment.runtimeconfig.json
+C:\Users\aafreen.shaikh\code\CoreAssignment\bin\Release\netcoreapp2.2\CoreAssignment.runtimeconfig.dev.json
+C:\Users\aafreen.shaikh\code\CoreAssignment\bin\Release\netcoreapp2.2\CoreAssignment.dll
+C:\Users\aafreen.shaikh\code\CoreAssignment\bin\Release\netcoreapp2.2\CoreAssignment.pdb
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.csprojAssemblyReference.cache
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.RazorAssemblyInfo.cache
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.RazorAssemblyInfo.cs
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.AssemblyInfoInputs.cache
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.AssemblyInfo.cs
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.dll
+C:\Users\aafreen.shaikh\code\CoreAssignment\obj\Release\netcoreapp2.2\CoreAssignment.pdb
